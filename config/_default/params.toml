@@ -85,10 +85,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 3
 map_api_key = ""
 latitude = "37.4275"
-longitude = "122.2585"
+longitude = "-122.2585"
 zoom = 15
 
 ############################
@@ -139,9 +139,9 @@ sharing = true
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+  post_view = 1
+  publication_view = 3
+  talk_view = 3
 
 # Search.
 [search]
