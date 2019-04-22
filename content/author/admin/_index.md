@@ -14,7 +14,7 @@ role = "Graduate Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Univercity of California, Berkeley", url = "https://www.berkeley.edu/" } ]
+organizations = [ { name = "University of California, Berkeley", url = "https://www.berkeley.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I am an aspiring mechanical engineer currently studying at UC Berkeley. I am most infatuated with product design and principles of mechanical engineering."
