@@ -20,4 +20,6 @@ categories = []
   focal_point = "Smart"
   
 +++
-###Text of the project
+# Text
+## Text
+### Text of the project
