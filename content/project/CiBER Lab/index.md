@@ -1,8 +1,8 @@
 +++
-title = "Machine Learning"
+title = "Liz-Turn Robot"
 date = 2019-04-22T16:30:58-07:00
 draft = false
-weight = 10
+weight = 5
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

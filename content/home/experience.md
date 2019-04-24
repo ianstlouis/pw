@@ -22,10 +22,23 @@ date_format = "Jan 2006"
   company = "Apple"
   company_url = "www.apple.com"
   location = "Cupertino, California"
+  date_start = "2019-05-28"
+  date_end = ""
+  description = """
+  *Incoming*
+  """
+
+[[experience]]
+  title = "Mechanical Engineering Intern"
+  company = "Apple"
+  company_url = "www.apple.com"
+  location = "Cupertino, California"
   date_start = "2018-05-15"
   date_end = "2018-08-15"
-  description = """
-  Developed an electromechanical optical fixture for 6-axis, sub-micron, programmatic alignment of a substrate.
+  description = """<br/>
+
+  * Developed an electromechanical optical fixture for 6-axis, sub-micron, programmatic alignment of a substrate.
+  * Supported development and failure analysis of engineering builds for iPhone XR displays.
   """
 
 [[experience]]
