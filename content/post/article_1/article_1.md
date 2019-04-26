@@ -1,27 +1,26 @@
 +++
-title = "Bluetooth Car"
-date = 2019-04-22T16:30:58-07:00
+title = "Article_1"
+date = 2019-04-25T16:39:47-07:00
 draft = false
-weight = 99
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-# external_link = "https://www.ianstlouis.com/machinelearning"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Boundary Classification"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = ""
   
+  summary = "Summary of my post."
+
 +++
-# Text
-## Text
-### Text of the project
-[My CV]{{< ref "Ian St. Louis.html" >}}
+
+
+Content
