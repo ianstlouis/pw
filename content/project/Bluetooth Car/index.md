@@ -8,7 +8,7 @@ weight = 99
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-# external_link = "https://www.ianstlouis.com/machinelearning"
+# external_link = "https://[www.ianstlouis.com/machinelearning"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -24,4 +24,3 @@ categories = []
 # Text
 ## Text
 ### Text of the project
-[My CV]{{< ref "Ian St. Louis.html" >}}
